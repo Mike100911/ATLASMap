@@ -600,10 +600,22 @@
     "MaxPlayers": 0
   },
   {
-    "Name": "98.216.163.121",
-    "State": "offline",
+    "Name": "J2 - (v560.3)",
+    "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "J3 - (v560.3)",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "J4 - (v560.3)",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
   },
   {
     "Name": "98.216.163.121",
@@ -654,52 +666,40 @@
     "MaxPlayers": 0
   },
   {
-    "Name": "98.216.163.121",
-    "State": "offline",
+    "Name": "K2 - (v560.3)",
+    "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
   },
   {
-    "Name": "98.216.163.121",
-    "State": "offline",
+    "Name": "K3 - (v560.3)",
+    "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
   },
   {
-    "Name": "98.216.163.121",
-    "State": "offline",
+    "Name": "K4 - (v560.3)",
+    "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
   },
   {
-    "Name": "98.216.163.121",
-    "State": "offline",
+    "Name": "K5 - (v560.3)",
+    "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
   },
   {
-    "Name": "98.216.163.121",
-    "State": "offline",
+    "Name": "K6 - (v560.3)",
+    "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
   },
   {
-    "Name": "98.216.163.121",
-    "State": "offline",
+    "Name": "K7 - (v560.3)",
+    "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
-  },
-  {
-    "Name": "98.216.163.121",
-    "State": "offline",
-    "Players": 0,
-    "MaxPlayers": 0
-  },
-  {
-    "Name": "98.216.163.121",
-    "State": "offline",
-    "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
   },
   {
     "Name": "98.216.163.121",
