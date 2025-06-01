@@ -7506,6 +7506,7 @@
                         }, {
                             position: "topright"
                         }).addTo(n);
+                        window.atlasGrid = n.Grid;
                         var o = {};
                         n.on("overlayadd", (function (t) {
                                 o[t.name] = !0
@@ -8210,14 +8211,54 @@
                     L.Util.setOptions(this, t)
                 },
                 onAdd: function (t) {
+                    console.log("AtlasGrid onAdd called");
                     var e = this;
-                    this._map = t,
-                    t.on("zoomend", (function () {
-                            var e = document.querySelectorAll(".leaflet-grid-header");
-                            if (e)
-                                for (var i = 7 + 2.5 * t.getZoom(), n = 0; n < e.length; ++n)
-                                    e[n].style.fontSize = i + "px"
-                        }));
+                    this._map = t;
+
+                    // 1. Fetch server status once and store it
+                    this.serverStatusMap = {};
+                    fetch('https://raw.githubusercontent.com/Mike100911/ATLASMap/active/docs/server_status.json')
+                        .then(res => res.json())
+                        .then(statusList => {
+                            statusList.forEach(server => {
+                                // Assuming server.Name matches grid label (e.g., "A1")
+                                this.serverStatusMap[server.Name] = server.State;
+                            });
+                            // Force a redraw to ensure headers are present and colored
+                            if (this._lastDrawData) {
+                                this.draw(this._lastDrawData);
+                            }
+                        });
+
+                    // 2. Function to update grid header colors
+                    this.updateGridHeaderColors = function() {
+                        var headers = document.querySelectorAll('.leaflet-grid-header');
+                        if (headers) {
+                            for (var n = 0; n < headers.length; ++n) {
+                                var gridName = headers[n].textContent.trim();
+                                // Only set to green if online
+                                var matchKey = Object.keys(this.serverStatusMap).find(
+                                    k => k.startsWith(gridName + ' ') || k === gridName
+                                );
+                                var state = matchKey !== undefined ? this.serverStatusMap[matchKey] : undefined;
+                                if (state && state.trim().toLowerCase() === 'online') {
+                                    headers[n].style.color = 'rgb(0, 255, 0)';
+                                }
+                            }
+                        }
+                    }.bind(this);
+
+                    // 3. Update font size and color on zoom
+                    t.on("zoomend", () => {
+                        var headers = document.querySelectorAll('.leaflet-grid-header');
+                        if (headers) {
+                            for (var n = 0; n < headers.length; ++n) {
+                                headers[n].style.fontSize = (7 + 2.5 * t.getZoom()) + "px";
+                            }
+                        }
+                        this.updateGridHeaderColors();
+                    });
+
                     var i = t._originalBounds;
                     this._xTickSize = (i.getEast() - i.getWest()) / this.options.xticks,
                     this._yTickSize = (i.getSouth() - i.getNorth()) / this.options.yticks,
@@ -8267,6 +8308,7 @@
                     this._map.Portals.addLayer(h)
                 },
                 draw: function (e) {
+                    this._lastDrawData = e;
                     for (var i = this._map._originalBounds, n = 0; n < this.options.xticks + 1; n++)
                         this.addLayer(new L.Polyline([[i.getNorth(), i.getWest() + this._xTickSize * n], [i.getSouth(), i.getWest() + this._xTickSize * n]], this.options.lineStyle));
                     for (var o = 0; o < this.options.yticks + 1; o++)
@@ -8309,6 +8351,9 @@
                             });
                             this.addLayer(u),
                             u._icon.innerHTML = c
+                        }
+                        if (typeof this.updateGridHeaderColors === "function") {
+                            this.updateGridHeaderColors();
                         }
                     return this
                 }

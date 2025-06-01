@@ -6,11 +6,11 @@ import os
 with open('ServerGrid.json', 'r') as f:
     grid = json.load(f)
 
-def query_server(ip, port):
+def query_server(ip, port, name):
     try:
         info = a2s.info((ip, port))
         return {
-            "Name": info.server_name,
+            "Name": name,
             "State": "online",
             "Players": info.player_count,
             "MaxPlayers": info.max_players
@@ -18,7 +18,7 @@ def query_server(ip, port):
     except Exception as e:
         print(f"Error querying {ip}:{port} - {e}")
         return {
-            "Name": ip,
+            "Name": name,
             "State": "offline",
             "Players": 0,
             "MaxPlayers": 0
@@ -28,7 +28,8 @@ status_list = []
 for server in grid['servers']:
     ip = server['ip']
     port = server['port']
-    result = query_server(ip, port)
+    name = server['name'].split(' ')[0]
+    result = query_server(ip, port, name)
     status_list.append(result)
 
 # Ensure docs directory exists
