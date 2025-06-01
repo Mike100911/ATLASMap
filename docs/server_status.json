@@ -1,0 +1,728 @@
+[
+  {
+    "Name": "A1",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "A2",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "A3",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "A4",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "A5",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "A6",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "A7",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "A8",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "A9",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "A10",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "A11",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "B1",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "B2",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "B3",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "B4",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "B5",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "B6",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "B7",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "B8",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "B9",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "B10",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "B11",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "C1",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "C2",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "C3",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "C4",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "C5",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "C6",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "C7",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "C8",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "C9",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "C10",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "C11",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "D1",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "D2",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "D3",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "D4",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "D5",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "D6",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "D7",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "D8",
+    "State": "online",
+    "Players": 1,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "D9",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "D10",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "D11",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "E1",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "E2",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "E3",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "E4",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "E5",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "E6",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "E7",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "E8",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "E9",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "E10",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "E11",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "F1",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "F2",
+    "State": "online",
+    "Players": 1,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "F3",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "F4",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "F5",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "F6",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "F7",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "F8",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "F9",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "F10",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "F11",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "G1",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "G2",
+    "State": "online",
+    "Players": 3,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "G3",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "G4",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "G5",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "G6",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "G7",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "G8",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "G9",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "G10",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "G11",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "H1",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "H2",
+    "State": "online",
+    "Players": 2,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "H3",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "H4",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "H5",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "H6",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "H7",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "H8",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "H9",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "H10",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "H11",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "I1",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "I2",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "I3",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "I4",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "I5",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "I6",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "I7",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "I8",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "I9",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "I10",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "I11",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "J1",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "J2",
+    "State": "online",
+    "Players": 1,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "J3",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "J4",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "J5",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "J6",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "J7",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "J8",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "J9",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "J10",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "J11",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "K1",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "K2",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "K3",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "K4",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "K5",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "K6",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "K7",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "K8",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "K9",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "K10",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "K11",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  }
+]
