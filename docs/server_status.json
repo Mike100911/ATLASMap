@@ -174,10 +174,10 @@
     "MaxPlayers": 30
   },
   {
-    "Name": "98.216.163.121",
-    "State": "offline",
+    "Name": "C8 - (v560.3)",
+    "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
   },
   {
     "Name": "98.216.163.121",
@@ -204,16 +204,16 @@
     "MaxPlayers": 0
   },
   {
-    "Name": "98.216.163.121",
-    "State": "offline",
+    "Name": "D2 - (v560.3)",
+    "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
   },
   {
-    "Name": "98.216.163.121",
-    "State": "offline",
+    "Name": "D3 - (v560.3)",
+    "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
   },
   {
     "Name": "D4 (Lawless Region) - (v560.3)",
@@ -246,10 +246,100 @@
     "MaxPlayers": 30
   },
   {
+    "Name": "D9 (Southern Temperate Freeport) - (v560.3)",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
+  },
+  {
     "Name": "98.216.163.121",
     "State": "offline",
     "Players": 0,
     "MaxPlayers": 0
+  },
+  {
+    "Name": "98.216.163.121",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "98.216.163.121",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "E2 - (v560.3)",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "98.216.163.121",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "98.216.163.121",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "98.216.163.121",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "98.216.163.121",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "98.216.163.121",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "E8 (Lawless Region) - (v560.3)",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
+  },
+  {
+    "Name": "98.216.163.121",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "98.216.163.121",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "98.216.163.121",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "98.216.163.121",
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
+  },
+  {
+    "Name": "F2 - (v560.3)",
+    "State": "online",
+    "Players": 0,
+    "MaxPlayers": 30
   },
   {
     "Name": "98.216.163.121",
@@ -384,100 +474,10 @@
     "MaxPlayers": 0
   },
   {
-    "Name": "98.216.163.121",
-    "State": "offline",
+    "Name": "H3 (Northern Tropical Freeport) - (v560.3)",
+    "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
-  },
-  {
-    "Name": "98.216.163.121",
-    "State": "offline",
-    "Players": 0,
-    "MaxPlayers": 0
-  },
-  {
-    "Name": "98.216.163.121",
-    "State": "offline",
-    "Players": 0,
-    "MaxPlayers": 0
-  },
-  {
-    "Name": "98.216.163.121",
-    "State": "offline",
-    "Players": 0,
-    "MaxPlayers": 0
-  },
-  {
-    "Name": "98.216.163.121",
-    "State": "offline",
-    "Players": 0,
-    "MaxPlayers": 0
-  },
-  {
-    "Name": "98.216.163.121",
-    "State": "offline",
-    "Players": 0,
-    "MaxPlayers": 0
-  },
-  {
-    "Name": "98.216.163.121",
-    "State": "offline",
-    "Players": 0,
-    "MaxPlayers": 0
-  },
-  {
-    "Name": "98.216.163.121",
-    "State": "offline",
-    "Players": 0,
-    "MaxPlayers": 0
-  },
-  {
-    "Name": "98.216.163.121",
-    "State": "offline",
-    "Players": 0,
-    "MaxPlayers": 0
-  },
-  {
-    "Name": "98.216.163.121",
-    "State": "offline",
-    "Players": 0,
-    "MaxPlayers": 0
-  },
-  {
-    "Name": "98.216.163.121",
-    "State": "offline",
-    "Players": 0,
-    "MaxPlayers": 0
-  },
-  {
-    "Name": "98.216.163.121",
-    "State": "offline",
-    "Players": 0,
-    "MaxPlayers": 0
-  },
-  {
-    "Name": "98.216.163.121",
-    "State": "offline",
-    "Players": 0,
-    "MaxPlayers": 0
-  },
-  {
-    "Name": "98.216.163.121",
-    "State": "offline",
-    "Players": 0,
-    "MaxPlayers": 0
-  },
-  {
-    "Name": "98.216.163.121",
-    "State": "offline",
-    "Players": 0,
-    "MaxPlayers": 0
-  },
-  {
-    "Name": "98.216.163.121",
-    "State": "offline",
-    "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
   },
   {
     "Name": "98.216.163.121",
