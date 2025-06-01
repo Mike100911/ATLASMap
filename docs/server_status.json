@@ -206,13 +206,13 @@
   {
     "Name": "D2 - (v560.3)",
     "State": "online",
-    "Players": 0,
+    "Players": 1,
     "MaxPlayers": 30
   },
   {
     "Name": "D3 - (v560.3)",
     "State": "online",
-    "Players": 0,
+    "Players": 1,
     "MaxPlayers": 30
   },
   {
@@ -272,7 +272,7 @@
   {
     "Name": "E2 - (v560.3)",
     "State": "online",
-    "Players": 0,
+    "Players": 1,
     "MaxPlayers": 30
   },
   {
