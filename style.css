@@ -922,7 +922,7 @@ ol.History {
     width: auto !important;
     height: auto !important;
     white-space: nowrap;
-    color: white;
+    color: red;
     text-shadow: 2px 2px black;
 }
 
