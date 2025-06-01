@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Allow PowerShell script execution
         run: Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
-        shell: pwsh
+        shell: powershell
       - name: Checkout active branch
         uses: actions/checkout@v3
         with:
