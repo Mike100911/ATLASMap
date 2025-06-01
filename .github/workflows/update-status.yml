@@ -9,6 +9,9 @@ jobs:
   status:
     runs-on: self-hosted
     steps:
+      - name: Allow PowerShell script execution
+        run: Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
+        shell: pwsh
       - name: Checkout active branch
         uses: actions/checkout@v3
         with:
