@@ -404,7 +404,7 @@
   {
     "Name": "G2",
     "State": "online",
-    "Players": 0,
+    "Players": 1,
     "MaxPlayers": 30
   },
   {
@@ -547,9 +547,9 @@
   },
   {
     "Name": "I4",
-    "State": "offline",
+    "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
   },
   {
     "Name": "I5",
@@ -601,21 +601,21 @@
   },
   {
     "Name": "J2",
-    "State": "offline",
+    "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
   },
   {
     "Name": "J3",
-    "State": "offline",
+    "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
   },
   {
     "Name": "J4",
-    "State": "offline",
+    "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
   },
   {
     "Name": "J5",
@@ -667,9 +667,9 @@
   },
   {
     "Name": "K2",
-    "State": "offline",
+    "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
   },
   {
     "Name": "K3",
