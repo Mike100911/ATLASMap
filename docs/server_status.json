@@ -230,13 +230,13 @@
   {
     "Name": "D6",
     "State": "online",
-    "Players": 1,
+    "Players": 2,
     "MaxPlayers": 30
   },
   {
     "Name": "D7",
     "State": "online",
-    "Players": 0,
+    "Players": 1,
     "MaxPlayers": 30
   },
   {
@@ -308,7 +308,7 @@
   {
     "Name": "E8",
     "State": "online",
-    "Players": 2,
+    "Players": 3,
     "MaxPlayers": 30
   },
   {
@@ -338,7 +338,7 @@
   {
     "Name": "F2",
     "State": "online",
-    "Players": 1,
+    "Players": 2,
     "MaxPlayers": 30
   },
   {
@@ -398,13 +398,13 @@
   {
     "Name": "G1",
     "State": "online",
-    "Players": 0,
+    "Players": 1,
     "MaxPlayers": 30
   },
   {
     "Name": "G2",
     "State": "online",
-    "Players": 1,
+    "Players": 2,
     "MaxPlayers": 30
   },
   {
