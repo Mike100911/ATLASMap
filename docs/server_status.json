@@ -163,9 +163,9 @@
   },
   {
     "Name": "C6",
-    "State": "offline",
-    "Players": 0,
-    "MaxPlayers": 0
+    "State": "online",
+    "Players": 1,
+    "MaxPlayers": 30
   },
   {
     "Name": "C7",
@@ -308,7 +308,7 @@
   {
     "Name": "E8",
     "State": "online",
-    "Players": 0,
+    "Players": 1,
     "MaxPlayers": 30
   },
   {
