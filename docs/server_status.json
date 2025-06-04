@@ -218,13 +218,13 @@
   {
     "Name": "D4",
     "State": "online",
-    "Players": 1,
+    "Players": 3,
     "MaxPlayers": 30
   },
   {
     "Name": "D5",
     "State": "online",
-    "Players": 2,
+    "Players": 3,
     "MaxPlayers": 30
   },
   {
