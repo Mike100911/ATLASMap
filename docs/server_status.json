@@ -241,9 +241,9 @@
   },
   {
     "Name": "D8",
-    "State": "offline",
+    "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
   },
   {
     "Name": "D9",
@@ -307,9 +307,9 @@
   },
   {
     "Name": "E8",
-    "State": "offline",
+    "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
   },
   {
     "Name": "E9",
@@ -475,9 +475,9 @@
   },
   {
     "Name": "H3",
-    "State": "offline",
+    "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
   },
   {
     "Name": "H4",
