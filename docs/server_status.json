@@ -470,7 +470,7 @@
   {
     "Name": "H2",
     "State": "online",
-    "Players": 0,
+    "Players": 2,
     "MaxPlayers": 30
   },
   {
@@ -536,7 +536,7 @@
   {
     "Name": "I2",
     "State": "online",
-    "Players": 2,
+    "Players": 3,
     "MaxPlayers": 30
   },
   {
