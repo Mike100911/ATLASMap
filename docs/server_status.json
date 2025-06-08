@@ -218,13 +218,13 @@
   {
     "Name": "D4",
     "State": "online",
-    "Players": 0,
+    "Players": 1,
     "MaxPlayers": 30
   },
   {
     "Name": "D5",
     "State": "online",
-    "Players": 1,
+    "Players": 2,
     "MaxPlayers": 30
   },
   {
@@ -242,7 +242,7 @@
   {
     "Name": "D8",
     "State": "online",
-    "Players": 0,
+    "Players": 1,
     "MaxPlayers": 30
   },
   {
@@ -338,7 +338,7 @@
   {
     "Name": "F2",
     "State": "online",
-    "Players": 0,
+    "Players": 1,
     "MaxPlayers": 30
   },
   {
@@ -470,7 +470,7 @@
   {
     "Name": "H2",
     "State": "online",
-    "Players": 0,
+    "Players": 1,
     "MaxPlayers": 30
   },
   {
