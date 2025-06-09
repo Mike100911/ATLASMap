@@ -206,43 +206,43 @@
   {
     "Name": "D2",
     "State": "online",
-    "Players": 0,
+    "Players": 2,
     "MaxPlayers": 30
   },
   {
     "Name": "D3",
     "State": "online",
-    "Players": 0,
+    "Players": 2,
     "MaxPlayers": 30
   },
   {
     "Name": "D4",
     "State": "online",
-    "Players": 1,
+    "Players": 3,
     "MaxPlayers": 30
   },
   {
     "Name": "D5",
     "State": "online",
-    "Players": 2,
+    "Players": 4,
     "MaxPlayers": 30
   },
   {
     "Name": "D6",
     "State": "online",
-    "Players": 1,
+    "Players": 3,
     "MaxPlayers": 30
   },
   {
     "Name": "D7",
     "State": "online",
-    "Players": 2,
+    "Players": 4,
     "MaxPlayers": 30
   },
   {
     "Name": "D8",
     "State": "online",
-    "Players": 1,
+    "Players": 2,
     "MaxPlayers": 30
   },
   {
@@ -272,7 +272,7 @@
   {
     "Name": "E2",
     "State": "online",
-    "Players": 0,
+    "Players": 1,
     "MaxPlayers": 30
   },
   {
@@ -308,7 +308,7 @@
   {
     "Name": "E8",
     "State": "online",
-    "Players": 2,
+    "Players": 4,
     "MaxPlayers": 30
   },
   {
