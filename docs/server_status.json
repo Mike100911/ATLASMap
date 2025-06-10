@@ -217,21 +217,21 @@
   },
   {
     "Name": "D4",
-    "State": "online",
+    "State": "offline",
     "Players": 0,
-    "MaxPlayers": 30
+    "MaxPlayers": 0
   },
   {
     "Name": "D5",
-    "State": "online",
+    "State": "offline",
     "Players": 0,
-    "MaxPlayers": 30
+    "MaxPlayers": 0
   },
   {
     "Name": "D6",
-    "State": "online",
+    "State": "offline",
     "Players": 0,
-    "MaxPlayers": 30
+    "MaxPlayers": 0
   },
   {
     "Name": "D7",
@@ -272,7 +272,7 @@
   {
     "Name": "E2",
     "State": "online",
-    "Players": 1,
+    "Players": 3,
     "MaxPlayers": 30
   },
   {
@@ -308,7 +308,7 @@
   {
     "Name": "E8",
     "State": "online",
-    "Players": 3,
+    "Players": 4,
     "MaxPlayers": 30
   },
   {
@@ -338,7 +338,7 @@
   {
     "Name": "F2",
     "State": "online",
-    "Players": 2,
+    "Players": 4,
     "MaxPlayers": 30
   },
   {
@@ -391,9 +391,9 @@
   },
   {
     "Name": "F11",
-    "State": "offline",
+    "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
   },
   {
     "Name": "G1",
@@ -404,7 +404,7 @@
   {
     "Name": "G2",
     "State": "online",
-    "Players": 0,
+    "Players": 3,
     "MaxPlayers": 30
   },
   {
@@ -458,7 +458,7 @@
   {
     "Name": "G11",
     "State": "online",
-    "Players": 0,
+    "Players": 1,
     "MaxPlayers": 30
   },
   {
@@ -470,13 +470,13 @@
   {
     "Name": "H2",
     "State": "online",
-    "Players": 1,
+    "Players": 5,
     "MaxPlayers": 30
   },
   {
     "Name": "H3",
     "State": "online",
-    "Players": 0,
+    "Players": 1,
     "MaxPlayers": 30
   },
   {
@@ -536,20 +536,20 @@
   {
     "Name": "I2",
     "State": "online",
-    "Players": 0,
+    "Players": 4,
     "MaxPlayers": 30
   },
   {
     "Name": "I3",
-    "State": "offline",
+    "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
   },
   {
     "Name": "I4",
-    "State": "offline",
+    "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
   },
   {
     "Name": "I5",
@@ -613,9 +613,9 @@
   },
   {
     "Name": "J4",
-    "State": "offline",
+    "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
   },
   {
     "Name": "J5",
