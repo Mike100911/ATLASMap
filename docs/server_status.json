@@ -542,7 +542,7 @@
   {
     "Name": "I3",
     "State": "online",
-    "Players": 0,
+    "Players": 1,
     "MaxPlayers": 30
   },
   {
