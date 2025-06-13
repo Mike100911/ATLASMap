@@ -308,7 +308,7 @@
   {
     "Name": "E8",
     "State": "online",
-    "Players": 0,
+    "Players": 1,
     "MaxPlayers": 30
   },
   {
@@ -614,7 +614,7 @@
   {
     "Name": "J4",
     "State": "online",
-    "Players": 0,
+    "Players": 1,
     "MaxPlayers": 30
   },
   {
