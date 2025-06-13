@@ -338,7 +338,7 @@
   {
     "Name": "F2",
     "State": "online",
-    "Players": 1,
+    "Players": 2,
     "MaxPlayers": 30
   },
   {
@@ -404,7 +404,7 @@
   {
     "Name": "G2",
     "State": "online",
-    "Players": 0,
+    "Players": 1,
     "MaxPlayers": 30
   },
   {
@@ -548,7 +548,7 @@
   {
     "Name": "I4",
     "State": "online",
-    "Players": 0,
+    "Players": 1,
     "MaxPlayers": 30
   },
   {
