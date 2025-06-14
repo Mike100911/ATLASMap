@@ -242,7 +242,7 @@
   {
     "Name": "D8",
     "State": "online",
-    "Players": 1,
+    "Players": 0,
     "MaxPlayers": 30
   },
   {
@@ -271,9 +271,9 @@
   },
   {
     "Name": "E2",
-    "State": "online",
+    "State": "offline",
     "Players": 0,
-    "MaxPlayers": 30
+    "MaxPlayers": 0
   },
   {
     "Name": "E3",
@@ -308,7 +308,7 @@
   {
     "Name": "E8",
     "State": "online",
-    "Players": 3,
+    "Players": 0,
     "MaxPlayers": 30
   },
   {
@@ -337,9 +337,9 @@
   },
   {
     "Name": "F2",
-    "State": "online",
+    "State": "offline",
     "Players": 0,
-    "MaxPlayers": 30
+    "MaxPlayers": 0
   },
   {
     "Name": "F3",
@@ -403,9 +403,9 @@
   },
   {
     "Name": "G2",
-    "State": "online",
-    "Players": 1,
-    "MaxPlayers": 30
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
   },
   {
     "Name": "G3",
@@ -469,9 +469,9 @@
   },
   {
     "Name": "H2",
-    "State": "online",
-    "Players": 1,
-    "MaxPlayers": 30
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
   },
   {
     "Name": "H3",
@@ -535,21 +535,21 @@
   },
   {
     "Name": "I2",
-    "State": "online",
-    "Players": 1,
-    "MaxPlayers": 30
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
   },
   {
     "Name": "I3",
-    "State": "online",
+    "State": "offline",
     "Players": 0,
-    "MaxPlayers": 30
+    "MaxPlayers": 0
   },
   {
     "Name": "I4",
-    "State": "online",
-    "Players": 1,
-    "MaxPlayers": 30
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
   },
   {
     "Name": "I5",
@@ -601,21 +601,21 @@
   },
   {
     "Name": "J2",
-    "State": "online",
-    "Players": 1,
-    "MaxPlayers": 30
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
   },
   {
     "Name": "J3",
-    "State": "online",
+    "State": "offline",
     "Players": 0,
-    "MaxPlayers": 30
+    "MaxPlayers": 0
   },
   {
     "Name": "J4",
-    "State": "online",
-    "Players": 2,
-    "MaxPlayers": 30
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
   },
   {
     "Name": "J5",
