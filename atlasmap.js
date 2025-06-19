@@ -7862,7 +7862,7 @@
                                     if (e.animals || e.resources) {
                                         var r = new a(n.worldToLeaflet(e.worldX, e.worldY), {
                                             radius: 1.5,
-                                            color: "#f00",
+                                            color: "#f0f",
                                             opacity: 0,
                                             fillOpacity: 0
                                         });
