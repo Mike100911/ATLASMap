@@ -633,7 +633,7 @@
     "Name": "J7",
     "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
   },
   {
     "Name": "J8",
@@ -697,9 +697,9 @@
   },
   {
     "Name": "K7",
-    "State": "offline",
+    "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
   },
   {
     "Name": "K8",
