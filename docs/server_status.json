@@ -421,9 +421,9 @@
   },
   {
     "Name": "G5",
-    "State": "offline",
+    "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
   },
   {
     "Name": "G6",
@@ -469,9 +469,9 @@
   },
   {
     "Name": "H2",
-    "State": "offline",
+    "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
   },
   {
     "Name": "H3",
