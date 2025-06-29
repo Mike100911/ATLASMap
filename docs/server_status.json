@@ -205,15 +205,15 @@
   },
   {
     "Name": "D2",
-    "State": "online",
+    "State": "offline",
     "Players": 0,
-    "MaxPlayers": 30
+    "MaxPlayers": 0
   },
   {
     "Name": "D3",
-    "State": "online",
+    "State": "offline",
     "Players": 0,
-    "MaxPlayers": 30
+    "MaxPlayers": 0
   },
   {
     "Name": "D4",
@@ -271,9 +271,9 @@
   },
   {
     "Name": "E2",
-    "State": "online",
+    "State": "offline",
     "Players": 0,
-    "MaxPlayers": 30
+    "MaxPlayers": 0
   },
   {
     "Name": "E3",
@@ -295,9 +295,9 @@
   },
   {
     "Name": "E6",
-    "State": "online",
+    "State": "offline",
     "Players": 0,
-    "MaxPlayers": 30
+    "MaxPlayers": 0
   },
   {
     "Name": "E7",
@@ -308,7 +308,7 @@
   {
     "Name": "E8",
     "State": "online",
-    "Players": 3,
+    "Players": 0,
     "MaxPlayers": 30
   },
   {
@@ -337,9 +337,9 @@
   },
   {
     "Name": "F2",
-    "State": "online",
+    "State": "offline",
     "Players": 0,
-    "MaxPlayers": 30
+    "MaxPlayers": 0
   },
   {
     "Name": "F3",
@@ -374,7 +374,7 @@
   {
     "Name": "F8",
     "State": "online",
-    "Players": 1,
+    "Players": 0,
     "MaxPlayers": 30
   },
   {
@@ -403,9 +403,9 @@
   },
   {
     "Name": "G2",
-    "State": "online",
+    "State": "offline",
     "Players": 0,
-    "MaxPlayers": 30
+    "MaxPlayers": 0
   },
   {
     "Name": "G3",
@@ -469,9 +469,9 @@
   },
   {
     "Name": "H2",
-    "State": "online",
+    "State": "offline",
     "Players": 0,
-    "MaxPlayers": 30
+    "MaxPlayers": 0
   },
   {
     "Name": "H3",
@@ -535,9 +535,9 @@
   },
   {
     "Name": "I2",
-    "State": "online",
+    "State": "offline",
     "Players": 0,
-    "MaxPlayers": 30
+    "MaxPlayers": 0
   },
   {
     "Name": "I3",
@@ -601,9 +601,9 @@
   },
   {
     "Name": "J2",
-    "State": "online",
-    "Players": 1,
-    "MaxPlayers": 30
+    "State": "offline",
+    "Players": 0,
+    "MaxPlayers": 0
   },
   {
     "Name": "J3",
