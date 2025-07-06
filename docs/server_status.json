@@ -601,9 +601,9 @@
   },
   {
     "Name": "J2",
-    "State": "offline",
+    "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
   },
   {
     "Name": "J3",
