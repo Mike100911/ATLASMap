@@ -373,9 +373,9 @@
   },
   {
     "Name": "F8",
-    "State": "offline",
+    "State": "online",
     "Players": 0,
-    "MaxPlayers": 0
+    "MaxPlayers": 30
   },
   {
     "Name": "F9",
